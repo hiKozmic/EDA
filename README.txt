@@ -6,3 +6,4 @@ Business Understanding:
 -Our goal is to analyse how overall sales trends changed over time and which product categories have experienced the most growth
  and what is the impact of e-commerce on total sales.
 
+ Domain Knowledge: This could be useful in understanding market trends, growth in e-commerce, and the share of online sales by category.
