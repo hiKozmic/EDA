@@ -5,4 +5,3 @@ Business Understanding:
 -It contains the Total Sales and the Annual Sales of each product category from each year showing which was higher.
 -Our goal is to analyse how overall sales trends changed over time and which product categories have experienced the most growth
  and what is the impact of e-commerce on total sales.
-
